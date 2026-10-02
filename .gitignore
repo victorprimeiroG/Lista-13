@@ -1,0 +1,17 @@
+# Ficheiros compilados do Java
+*.class
+bin/
+out/
+target/
+build/
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
